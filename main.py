@@ -25,6 +25,7 @@ def adjust_recipe(recipe, num_people):
     }
     return adjusted_recipe
 
+
 def load_recipe(json_string):
     """
     Lädt ein Rezept aus einem JSON-String und gibt es als Dictionary zurück.
